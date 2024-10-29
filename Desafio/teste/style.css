@@ -1,0 +1,15 @@
+@charset 'UFT-8';
+
+@font-face {
+    font-family: letra ;
+    src: url("fontes/idroid.otf");
+}
+
+body{
+    background-color: yellow;
+}
+
+h1{
+    color: black;
+    font-family: letra;
+}
